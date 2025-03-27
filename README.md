@@ -6,12 +6,15 @@ A web-based interactive dashboard built with **Flask** and **Plotly** that visua
 
 - 📍 **Point-based Income Map**  
   Each census tract is represented by its centroid on a map, color-coded by income level.
+  ![Income Map](images/scattermap.png)
 
 - 📊 **Tract Count by Income Level**  
   A bar chart showing how many census tracts fall under each income category.
+  ![Bar Chart](images/barchart.png)
 
 - 📈 **Income Distribution by Level**  
   A box plot comparing the spread of median income across different income levels.
+  ![Box Chart](images/boxplot.png)
 
 - 📁 **Automated Spatial Processing Pipeline**
   - Raw GeoJSON files are uploaded to MinIO (`raw` bucket).
