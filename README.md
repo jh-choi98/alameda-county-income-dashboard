@@ -4,10 +4,6 @@ A web-based interactive dashboard built with **Flask** and **Plotly** that visua
 
 ## 🚀 Features
 
-- 📍 **Point-based Income Map**  
-  Each census tract is represented by its centroid on a map, color-coded by income level.
-  ![Income Map](images/scattermap.png)
-
 - 📊 **Tract Count by Income Level**  
   A bar chart showing how many census tracts fall under each income category.
   ![Bar Chart](images/barchart.png)
@@ -198,7 +194,7 @@ return parsed.features.map((feature) => {
 ## 👨‍💻 Author
 
 **Juho Choi**  
-Intern @ Location Intelligence Team, QuadReal  
+Intern @ Data Product Team, QuadReal  
 March 2025
 
 ---
