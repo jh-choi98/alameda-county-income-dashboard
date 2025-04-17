@@ -193,9 +193,7 @@ return parsed.features.map((feature) => {
 
 ## 👨‍💻 Author
 
-**Juho Choi**  
-Intern @ Data Product Team, QuadReal  
-March 2025
+**Juho Choi**
 
 ---
 
